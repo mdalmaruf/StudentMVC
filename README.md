@@ -1120,8 +1120,7 @@ USER CLICKS "Add Student"
 | 4 | `src/controller/StudentController.java` | ~170 | Event handling |
 | 5 | `src/App.java` | ~35 | Entry point |
 
-**Total: ~605 lines of code across 5 files**
 
 ---
 
-*Built as a teaching tutorial for MVC architecture with Java Swing.*
+
