@@ -1,7 +1,5 @@
 # Java MVC Architecture Tutorial — Build a Student Management System
 
-> **Duration:** ~1 hour  
-> **Level:** Beginner to Intermediate  
 > **Tools:** Java 17+, VS Code  
 > **What you'll build:** A fully working Student Management desktop application using MVC architecture with Java Swing UI
 
